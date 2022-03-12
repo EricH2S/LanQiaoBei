@@ -1,0 +1,2 @@
+D:\c++ project\蓝桥杯卡片\Debug\蓝桥杯卡片.exe
+D:\c++ project\蓝桥杯卡片\Debug\蓝桥杯卡片.pdb

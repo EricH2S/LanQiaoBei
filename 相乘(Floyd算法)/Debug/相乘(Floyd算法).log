@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\c++ project\蓝桥杯题目集\相乘(Floyd算法)\源.cpp(6,1): warning C4005: “INFINITY”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : 参见“INFINITY”的前一个定义
+  相乘(Floyd算法).vcxproj -> D:\c++ project\蓝桥杯题目集\相乘(Floyd算法)\Debug\相乘(Floyd算法).exe

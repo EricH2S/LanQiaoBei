@@ -1,0 +1,2 @@
+D:\c++ project\蓝桥杯01\Debug\蓝桥杯01.exe
+D:\c++ project\蓝桥杯01\Debug\蓝桥杯01.pdb
